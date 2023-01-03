@@ -33,7 +33,7 @@
 		<link>
 			<name>STM_Common</name>
 			<type>2</type>
-			<location>/home/sep/STM32CubeIDE/workspace_1.11.0/STM_Common</location>
+			<locationURI>WORKSPACE_LOC/STM_Common</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
